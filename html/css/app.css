@@ -33,6 +33,12 @@
 	transform: translate(-50%, 0);
 }
 
+.menu.align-top-center {
+	left: 50%;
+	top: 40;
+	transform: translate(-50%, 0);
+}
+
 .menu.align-top-right {
 	right: 10;
 	top: 40;
